@@ -22,6 +22,7 @@
 - [A Client server data sync algorithm - using objects diff and patch](https://www.linkedin.com/pulse/client-server-sync-algorithm-using-objects-diff-patch-kumar-krishna/), by Santhoshkumar Krishnakurup.
 - [Data Syncing in Core Data Based iOS Apps](http://blog.denivip.ru/index.php/2014/04/data-syncing-in-core-data-based-ios-apps/?lang=en), by Eugene Ilyichev.
 - [CouchDB security and PouchDB authentication](https://mircozeiss.com/couchdb-security-and-pouchdb-authentication) by Mirco Zeiss.
+- [Offline-first application architecture](https://codete.com/blog/offline-first-application-architecture/), by Codete
 
 ## Videos
 
