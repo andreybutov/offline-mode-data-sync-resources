@@ -39,4 +39,5 @@
 - [Kinto](https://docs.kinto-storage.org/en/stable)
 - [SQLiteSync sync framework](https://ampliapps.com/sqlite-sync/) by Amplifier.
 - [WebSqlSync](https://github.com/orbitaloop/WebSqlSync)
+- [RxDB](https://github.com/pubkey/rxdb) 
 
