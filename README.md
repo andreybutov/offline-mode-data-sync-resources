@@ -23,6 +23,9 @@
 - [Data Syncing in Core Data Based iOS Apps](http://blog.denivip.ru/index.php/2014/04/data-syncing-in-core-data-based-ios-apps/?lang=en), by Eugene Ilyichev.
 - [CouchDB security and PouchDB authentication](https://mircozeiss.com/couchdb-security-and-pouchdb-authentication) by Mirco Zeiss.
 - [Offline-first application architecture](https://codete.com/blog/offline-first-application-architecture/), by Codete
+- [Configure a clustered Apache CouchDB database for encryption of data at rest...](https://developer.ibm.com/technologies/blockchain/tutorials/implement-custom-solution-kubernetes-cluster-couchdb-ibm-cloud/)
+- [Offline first, client-side encryption and the quest for a proper datastore](https://sealas.at/blog/2018-05/offline-first-client-side-encryption-and-the-quest-for-a-proper-datastore/)
+- [CouchDB Security](https://guide.couchdb.org/draft/security.html)
 
 ## Videos
 
@@ -40,4 +43,5 @@
 - [SQLiteSync sync framework](https://ampliapps.com/sqlite-sync/) by Amplifier.
 - [WebSqlSync](https://github.com/orbitaloop/WebSqlSync)
 - [RxDB](https://github.com/pubkey/rxdb) 
+- [Crypto-Pouch](https://github.com/calvinmetcalf/crypto-pouch)
 
