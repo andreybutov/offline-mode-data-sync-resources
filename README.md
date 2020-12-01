@@ -46,7 +46,7 @@
 - [RxDB](https://github.com/pubkey/rxdb) 
 - [Crypto-Pouch](https://github.com/calvinmetcalf/crypto-pouch)
 
-## CRDT Resources
+## CRDT Resources (Conflict-Free Replicated Data Types)
 
 - [https://github.com/automerge/automerge](https://github.com/automerge/automerge)
 - [https://github.com/yjs/yjs](https://github.com/yjs/yjs)
