@@ -45,3 +45,10 @@
 - [RxDB](https://github.com/pubkey/rxdb) 
 - [Crypto-Pouch](https://github.com/calvinmetcalf/crypto-pouch)
 
+## CRDT Resources
+
+- [https://github.com/automerge/automerge](https://github.com/automerge/automerge)
+- [https://github.com/yjs/yjs](https://github.com/yjs/yjs)
+- [https://news.ycombinator.com/item?id=21464189](https://news.ycombinator.com/item?id=21464189)
+- [https://crdt.tech/implementations](https://crdt.tech/implementations)
+
