@@ -26,6 +26,7 @@
 - [Configure a clustered Apache CouchDB database for encryption of data at rest...](https://developer.ibm.com/technologies/blockchain/tutorials/implement-custom-solution-kubernetes-cluster-couchdb-ibm-cloud/)
 - [Offline first, client-side encryption and the quest for a proper datastore](https://sealas.at/blog/2018-05/offline-first-client-side-encryption-and-the-quest-for-a-proper-datastore/)
 - [CouchDB Security](https://guide.couchdb.org/draft/security.html)
+- [Creating a Multiple User App with PouchDB & CouchDB](https://www.joshmorony.com/creating-a-multiple-user-app-with-pouchdb-couchdb/)
 
 ## Videos
 
@@ -51,4 +52,7 @@
 - [https://github.com/yjs/yjs](https://github.com/yjs/yjs)
 - [https://news.ycombinator.com/item?id=21464189](https://news.ycombinator.com/item?id=21464189)
 - [https://crdt.tech/implementations](https://crdt.tech/implementations)
+- [https://replicache.dev/](https://replicache.dev/)
+- [https://twitter.com/jaredforsyth/status/1217649814793572352?s=27](https://twitter.com/jaredforsyth/status/1217649814793572352?s=27)
+
 
