@@ -27,6 +27,7 @@
 - [Offline first, client-side encryption and the quest for a proper datastore](https://sealas.at/blog/2018-05/offline-first-client-side-encryption-and-the-quest-for-a-proper-datastore/)
 - [CouchDB Security](https://guide.couchdb.org/draft/security.html)
 - [Creating a Multiple User App with PouchDB & CouchDB](https://www.joshmorony.com/creating-a-multiple-user-app-with-pouchdb-couchdb/)
+- [Differential Synchronization](https://neil.fraser.name/writing/sync/)
 
 ## Videos
 
@@ -45,6 +46,7 @@
 - [WebSqlSync](https://github.com/orbitaloop/WebSqlSync)
 - [RxDB](https://github.com/pubkey/rxdb) 
 - [Crypto-Pouch](https://github.com/calvinmetcalf/crypto-pouch)
+- [ShareDB](https://github.com/share/sharedb)
 
 ## CRDT Resources (Conflict-Free Replicated Data Types)
 
@@ -54,5 +56,6 @@
 - [https://crdt.tech/implementations](https://crdt.tech/implementations)
 - [https://replicache.dev/](https://replicache.dev/)
 - [https://twitter.com/jaredforsyth/status/1217649814793572352?s=27](https://twitter.com/jaredforsyth/status/1217649814793572352?s=27)
+- [To OT or CRDT, that is the question](https://www.tiny.cloud/blog/real-time-collaboration-ot-vs-crdt/)
 
 
