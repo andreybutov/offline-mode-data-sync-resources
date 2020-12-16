@@ -28,6 +28,13 @@
 - [CouchDB Security](https://guide.couchdb.org/draft/security.html)
 - [Creating a Multiple User App with PouchDB & CouchDB](https://www.joshmorony.com/creating-a-multiple-user-app-with-pouchdb-couchdb/)
 - [Differential Synchronization](https://neil.fraser.name/writing/sync/)
+- [How Figma's multiplayer technology works](https://www.figma.com/blog/how-figmas-multiplayer-technology-works/)
+- [How to Build Offline-smart Web Apps with Hoodie](https://www.codementor.io/@pmbanugo/build-offline-smart-web-apps-with-hoodie-du1087y4l)
+- [Introduction to offline data storage and sync with PouchDB and Couchbase](https://blog.couchbase.com/introduction-offline-data-storage-sync-pouchdb-couchbase/)
+- [Offline Sync for Progressive Web Apps](https://medium.com/codait/offline-sync-for-progressive-web-apps-ccab6bf6db17)
+
+
+
 
 ## Videos
 
@@ -57,5 +64,6 @@
 - [https://replicache.dev/](https://replicache.dev/)
 - [https://twitter.com/jaredforsyth/status/1217649814793572352?s=27](https://twitter.com/jaredforsyth/status/1217649814793572352?s=27)
 - [To OT or CRDT, that is the question](https://www.tiny.cloud/blog/real-time-collaboration-ot-vs-crdt/)
+- [CRDTs and the Quest for Distributed Consistency (Video)](https://www.youtube.com/watch?v=B5NULPSiOGw)
 
 
