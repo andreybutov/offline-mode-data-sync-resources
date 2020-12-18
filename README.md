@@ -1,7 +1,7 @@
 
 ## Resources related to building offline-first mobile and web apps, with a focus on data sync.
 
-## Articles & Documents
+## Articles, Documents, and Videos
 
 - [Evernote's technical document](https://dev.evernote.com/doc/articles/synchronization.php) on data sync, and a [direct link to the PDF](https://dev.evernote.com/media/pdf/edam-sync.pdf).
 - [How I developed an app that runs and syncs on both desktop and mobile platforms alone](https://blog.inkdrop.info/how-ive-support-5-platforms-aa4cdd18e9b4) - An article by the developer of Inkdrop.
@@ -33,11 +33,6 @@
 - [Introduction to offline data storage and sync with PouchDB and Couchbase](https://blog.couchbase.com/introduction-offline-data-storage-sync-pouchdb-couchbase/)
 - [Offline Sync for Progressive Web Apps](https://medium.com/codait/offline-sync-for-progressive-web-apps-ccab6bf6db17)
 - [Data Laced with History: Causal Trees & Operational CRDTs](http://archagon.net/blog/2018/03/24/data-laced-with-history/)
-
-
-
-## Videos
-
 - [A talk by Tuomas Artman on Realtime Sync at Linear](https://www.youtube.com/watch?time_continue=2171&v=WxK11RsLqp4&feature=emb_logo).
 
 
