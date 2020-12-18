@@ -32,7 +32,7 @@
 - [How to Build Offline-smart Web Apps with Hoodie](https://www.codementor.io/@pmbanugo/build-offline-smart-web-apps-with-hoodie-du1087y4l)
 - [Introduction to offline data storage and sync with PouchDB and Couchbase](https://blog.couchbase.com/introduction-offline-data-storage-sync-pouchdb-couchbase/)
 - [Offline Sync for Progressive Web Apps](https://medium.com/codait/offline-sync-for-progressive-web-apps-ccab6bf6db17)
-
+- [Data Laced with History: Causal Trees & Operational CRDTs](http://archagon.net/blog/2018/03/24/data-laced-with-history/)
 
 
 
