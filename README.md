@@ -34,7 +34,7 @@
 - [Offline Sync for Progressive Web Apps](https://medium.com/codait/offline-sync-for-progressive-web-apps-ccab6bf6db17)
 - [Data Laced with History: Causal Trees & Operational CRDTs](http://archagon.net/blog/2018/03/24/data-laced-with-history/)
 - [A talk by Tuomas Artman on Realtime Sync at Linear](https://www.youtube.com/watch?time_continue=2171&v=WxK11RsLqp4&feature=emb_logo).
-
+- [Local-first software](https://www.inkandswitch.com/local-first.html)
 
 ## Tools, Libraries, Services, and Frameworks
 
