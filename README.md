@@ -49,6 +49,7 @@
 - [RxDB](https://github.com/pubkey/rxdb) 
 - [Crypto-Pouch](https://github.com/calvinmetcalf/crypto-pouch)
 - [ShareDB](https://github.com/share/sharedb)
+- [Logux](https://logux.io/)
 
 ## CRDT Resources (Conflict-Free Replicated Data Types)
 
