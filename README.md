@@ -35,6 +35,7 @@
 - [Data Laced with History: Causal Trees & Operational CRDTs](http://archagon.net/blog/2018/03/24/data-laced-with-history/)
 - [A talk by Tuomas Artman on Realtime Sync at Linear](https://www.youtube.com/watch?time_continue=2171&v=WxK11RsLqp4&feature=emb_logo).
 - [Local-first software](https://www.inkandswitch.com/local-first.html)
+- [5000x faster CRDTs: An Adventure in Optimization](https://josephg.com/blog/crdts-go-brrr/)
 
 ## Tools, Libraries, Services, and Frameworks
 
