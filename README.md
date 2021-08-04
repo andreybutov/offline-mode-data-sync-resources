@@ -62,5 +62,5 @@
 - [https://twitter.com/jaredforsyth/status/1217649814793572352?s=27](https://twitter.com/jaredforsyth/status/1217649814793572352?s=27)
 - [To OT or CRDT, that is the question](https://www.tiny.cloud/blog/real-time-collaboration-ot-vs-crdt/)
 - [CRDTs and the Quest for Distributed Consistency (Video)](https://www.youtube.com/watch?v=B5NULPSiOGw)
-
+- [CRDT.tech](https://crdt.tech/)
 
