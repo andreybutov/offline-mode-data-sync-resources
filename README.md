@@ -52,7 +52,6 @@
 - [Crypto-Pouch](https://github.com/calvinmetcalf/crypto-pouch)
 - [ShareDB](https://github.com/share/sharedb)
 - [Logux](https://logux.io/)
-- [Replicache](https://replicache.dev/)
 
 ## CRDT Resources (Conflict-Free Replicated Data Types)
 
@@ -60,7 +59,7 @@
 - [https://github.com/yjs/yjs](https://github.com/yjs/yjs)
 - [https://news.ycombinator.com/item?id=21464189](https://news.ycombinator.com/item?id=21464189)
 - [https://crdt.tech/implementations](https://crdt.tech/implementations)
-- [https://replicache.dev/](https://replicache.dev/)
+- [Replicache](https://replicache.dev/)
 - [https://twitter.com/jaredforsyth/status/1217649814793572352?s=27](https://twitter.com/jaredforsyth/status/1217649814793572352?s=27)
 - [To OT or CRDT, that is the question](https://www.tiny.cloud/blog/real-time-collaboration-ot-vs-crdt/)
 - [CRDTs and the Quest for Distributed Consistency (Video)](https://www.youtube.com/watch?v=B5NULPSiOGw)
