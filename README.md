@@ -36,6 +36,7 @@
 - [A talk by Tuomas Artman on Realtime Sync at Linear](https://www.youtube.com/watch?time_continue=2171&v=WxK11RsLqp4&feature=emb_logo).
 - [Local-first software](https://www.inkandswitch.com/local-first.html)
 - [5000x faster CRDTs: An Adventure in Optimization](https://josephg.com/blog/crdts-go-brrr/)
+- [A Simple Way to Build Collaborative Web Apps](https://zjy.cloud/posts/collaborative-web-apps)
 
 ## Tools, Libraries, Services, and Frameworks
 
@@ -51,6 +52,7 @@
 - [Crypto-Pouch](https://github.com/calvinmetcalf/crypto-pouch)
 - [ShareDB](https://github.com/share/sharedb)
 - [Logux](https://logux.io/)
+- [Replicache](https://replicache.dev/)
 
 ## CRDT Resources (Conflict-Free Replicated Data Types)
 
