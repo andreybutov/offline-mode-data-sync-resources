@@ -37,6 +37,7 @@
 - [Local-first software](https://www.inkandswitch.com/local-first.html)
 - [5000x faster CRDTs: An Adventure in Optimization](https://josephg.com/blog/crdts-go-brrr/)
 - [A Simple Way to Build Collaborative Web Apps](https://zjy.cloud/posts/collaborative-web-apps)
+- [Offline First Database Comparison](https://github.com/pubkey/client-side-databases)
 
 ## Tools, Libraries, Services, and Frameworks
 
@@ -64,4 +65,5 @@
 - [To OT or CRDT, that is the question](https://www.tiny.cloud/blog/real-time-collaboration-ot-vs-crdt/)
 - [CRDTs and the Quest for Distributed Consistency (Video)](https://www.youtube.com/watch?v=B5NULPSiOGw)
 - [CRDT.tech](https://crdt.tech/)
+- [CRDTs - Everything I Know](https://wiki.nikitavoloboev.xyz/distributed-systems/crdt)
 
