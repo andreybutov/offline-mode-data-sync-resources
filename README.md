@@ -38,6 +38,7 @@
 - [5000x faster CRDTs: An Adventure in Optimization](https://josephg.com/blog/crdts-go-brrr/)
 - [A Simple Way to Build Collaborative Web Apps](https://zjy.cloud/posts/collaborative-web-apps)
 - [Offline First Database Comparison](https://github.com/pubkey/client-side-databases)
+- [Mobile Database Bi-Directional Synchronization with a REST API](https://www.xamarinhelp.com/mobile-database-bi-directional-synchronization-rest-api/)
 
 ## Tools, Libraries, Services, and Frameworks
 
