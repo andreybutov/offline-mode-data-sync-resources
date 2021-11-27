@@ -54,6 +54,7 @@
 - [Crypto-Pouch](https://github.com/calvinmetcalf/crypto-pouch)
 - [ShareDB](https://github.com/share/sharedb)
 - [Logux](https://logux.io/)
+- [WatermelonDB](https://github.com/Nozbe/WatermelonDB)
 
 ## CRDT Resources (Conflict-Free Replicated Data Types)
 
