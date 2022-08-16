@@ -68,4 +68,5 @@
 - [CRDTs and the Quest for Distributed Consistency (Video)](https://www.youtube.com/watch?v=B5NULPSiOGw)
 - [CRDT.tech](https://crdt.tech/)
 - [CRDTs - Everything I Know](https://wiki.nikitavoloboev.xyz/distributed-systems/crdt)
-
+- [Actual: Using CRDTs in the Wild](https://archive.jlongster.com/using-crdts-in-the-wild)
+- [Replicants All the Way Down](https://appdecentral.com/2020/09/06/replicants-all-the-way-down/)
