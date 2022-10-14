@@ -42,6 +42,7 @@
 
 ## Tools, Libraries, Services, and Frameworks
 
+- [Replica](https://replicalib.com)
 - [https://syncthing.net](https://syncthing.net)
 - [https://owncloud.org](https://owncloud.org)
 - [https://firebase.google.com/docs/firestore](https://firebase.google.com/docs/firestore)
