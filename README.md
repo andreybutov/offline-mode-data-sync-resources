@@ -56,6 +56,7 @@
 - [ShareDB](https://github.com/share/sharedb)
 - [Logux](https://logux.io/)
 - [WatermelonDB](https://github.com/Nozbe/WatermelonDB)
+- [Electric SQL](https://electric-sql.com/)
 
 ## CRDT Resources (Conflict-Free Replicated Data Types)
 
