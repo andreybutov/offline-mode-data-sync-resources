@@ -43,7 +43,6 @@
 
 ## Tools, Libraries, Services, and Frameworks
 
-- [Replica](https://replicalib.com)
 - [https://syncthing.net](https://syncthing.net)
 - [https://owncloud.org](https://owncloud.org)
 - [https://firebase.google.com/docs/firestore](https://firebase.google.com/docs/firestore)
@@ -62,6 +61,7 @@
 ## CRDT Resources (Conflict-Free Replicated Data Types)
 
 - [https://github.com/automerge/automerge](https://github.com/automerge/automerge)
+- [https://github.com/automerge/automerge-repo](https://github.com/automerge/automerge-repo)
 - [https://github.com/yjs/yjs](https://github.com/yjs/yjs)
 - [https://news.ycombinator.com/item?id=21464189](https://news.ycombinator.com/item?id=21464189)
 - [https://crdt.tech/implementations](https://crdt.tech/implementations)
