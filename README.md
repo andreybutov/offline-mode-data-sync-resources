@@ -57,6 +57,7 @@
 - [Logux](https://logux.io/)
 - [WatermelonDB](https://github.com/Nozbe/WatermelonDB)
 - [Electric SQL](https://electric-sql.com/)
+- [Loro CRDT Library](https://www.loro.dev/)
 
 ## CRDT Resources (Conflict-Free Replicated Data Types)
 
