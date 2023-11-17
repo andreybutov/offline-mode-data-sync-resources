@@ -40,6 +40,7 @@
 - [Offline First Database Comparison](https://github.com/pubkey/client-side-databases)
 - [Mobile Database Bi-Directional Synchronization with a REST API](https://www.xamarinhelp.com/mobile-database-bi-directional-synchronization-rest-api/)
 - [An Interactive Intro to CRDTs](https://jakelazaroff.com/words/an-interactive-intro-to-crdts/)
+- [You don't need CRDTs for collaborative experiences](https://zknill.io/posts/collaboration-no-crdts/)
 
 ## Tools, Libraries, Services, and Frameworks
 
